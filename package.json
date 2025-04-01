@@ -35,15 +35,3 @@
     "vitepress": "1.0.0-rc.44"
   }
 }
-{
-  "name": "my-website",
-  "version": "1.0.0",
-  "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=9.0.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  }
-}
